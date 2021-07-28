@@ -1,4 +1,4 @@
-# Weight-Converter
+# Weight_Converter
 Creado en JavaScript y Bootstrap
 
 ## Pantalla Inicio
